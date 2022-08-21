@@ -56,14 +56,6 @@
     width: 140px;
 }
 
-.clearbutton {
-    padding: 0;
-    border: none;
-    outline: none;
-    background-color: transparent;
-    font-size: 18px;
-}
-
 .calculator__button_pressed {
     background: linear-gradient(145deg, #d8d8d8, #ffffff);
     color:lightsalmon;
